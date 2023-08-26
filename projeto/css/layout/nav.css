@@ -1,0 +1,27 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    align-items: center;
+}
+
+ul, li {
+    display: inline-block;
+}
+
+a{
+    text-decoration: none;
+    margin-left: 16px;
+}
+
+.logo_deyverson{
+    max-width: 128px;
+    margin-top: 128px;
+    border-radius: 100px;
+}
+
+@media (max-width: 600px){
+    .lista-menu{
+        display: none;
+    }
+}

@@ -1,0 +1,30 @@
+.titulo_principal{
+    font-family: var(--font-poppins);
+    font-size: var(--texto-grande);
+    line-height: 36px;
+}
+
+.texto-pequeno{
+    font-family: var(--font-poppins);
+    font-size: var(--texto-pequeno);
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.texto-medio{
+    font-family: var(--font-poppins);
+    font-size: var(--texto-medio);
+    font-weight: 300;
+}
+
+.texto-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    
+}
+
+.texto-icon i {
+    margin-right: 5px;
+}
