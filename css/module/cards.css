@@ -1,0 +1,21 @@
+.card {
+    width: 200px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    }
+
+    .card_verde_menta{
+        background-color: #ffffff;
+    }
+    
+    .card_rosa_pastel{
+        background-color: #00b300;
+    }
+    
+    .card_pessego{
+        background-color: #ff0000;
+    }
